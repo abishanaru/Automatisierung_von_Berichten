@@ -18,6 +18,8 @@ Periodisch wiederkehrende statistische Berichte sollen automatisiert werden:
 
 ## Geplantes Vorgehen
 - Iterativer Ansatz mit MVP
+- R Markdown, output als pdf
+- .exe File zum Ausführen des Codes
 
 1. Analyse vorhanderer Berichte
 2. Daten bereinigen
